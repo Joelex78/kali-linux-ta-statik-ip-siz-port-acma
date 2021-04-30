@@ -6,6 +6,8 @@ Evrensel Tak & Çalıştır adı verilen teknoloji sayesinde birçok elektronik 
 Böylece statik ip olmadan port açabilmemize olanak sağlamış oluruz. / With Universal Plug & Play technology most of the electronic devices communicate each other easily.
 In this way you can open port without static ip.
 
+![Alt text](https://www.teknolojihaber.net/images/upload/screenshot.1886912837.jpg)
+
 
 # Not / Note
 1-Öncelikle modeminizin upnp' yi desteklemesi gerekiyor. Gidip modem ayarlarından kontrol edebilirsiniz. / First of all your router needs to have upnp in it. You can check router's settings.
