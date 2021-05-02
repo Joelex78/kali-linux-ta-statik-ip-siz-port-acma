@@ -16,6 +16,6 @@ In this way you can open port without static ip.
 
 
 # Nasıl yapılır ? / How to do it ?
-Öncelikle apt-get install upnpc ile gerekli yazılımı kuruyoruz. Ardından terminale upnpc -a XXX.XXX.X.X port port tcp veya udp yazarak enterlıyoruz.
+Öncelikle apt-get install miniupnpc ile gerekli yazılımı kuruyoruz. Ardından terminale upnpc -a XXX.XXX.X.X port port tcp veya udp yazarak enterlıyoruz.
 'XXX.XXX.X.X' kısmı sizin ip adresiniz genelde 192. ile başlar, 'port port' yazan yer ise açmak istediğiniz portu girdiğiniz yer, 'tcp veya udp' açıklamama gerek olmadığını düşünüyorum. / First with apt-get install upnpc we install the script. then open terminal write and enter upnpc -a XXX.XXX.X.X port port tcp or udp.
 'XXX.XXX.X.X' is your ip address usually its begin with 192., 'port port' which port do you want to open, 'tcp or udp' i guess i didn't have to explain.
