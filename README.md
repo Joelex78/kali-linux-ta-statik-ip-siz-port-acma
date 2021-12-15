@@ -12,7 +12,7 @@ In this way you can open port without static ip.
 # Not / Note
 1-Öncelikle modeminizin upnp' yi desteklemesi gerekiyor. Gidip modem ayarlarından kontrol edebilirsiniz. / First of all your router needs to have upnp in it. You can check router's settings.
 
-2-Eğer ana makineniz windows ise ve kali linux sanal makinede ise bir wifi kartına ihtiyacınız olacak. Wifi kartı kali linux'a bağlı hale getirdikten sonra sonraki adıma geçebilirsiniz. / If your machine has windows as a mother os and your kali linux is on virtual machine you need a wifi adapter. After you bind your wifi adapter with kali linux you can pass next step.
+2-Eğer ana makineniz windows ise ve kali linux sanal makinede ise bir wifi kartına ihtiyacınız olacak. Wifi kartı kali linux'a bağlı hale getirdikten sonra sonraki adıma geçebilirsiniz. / If your machine has windows as a main os and your kali linux is on virtual machine you need a wifi adapter. After you bind your wifi adapter with kali linux you can pass next step.
 
 
 # Nasıl yapılır ? / How to do it ?
